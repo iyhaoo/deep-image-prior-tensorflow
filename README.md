@@ -1,6 +1,6 @@
 # deep-image-prior-tensorflow
 
-A tensorflow implement of the inpainting module in deep-image-prior. https://dmitryulyanov.github.io/deep_image_prior
+A tensorflow implement of the inpainting module in deep-image-prior (https://dmitryulyanov.github.io/deep_image_prior).
 
 ## Input
 
